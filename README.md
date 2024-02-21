@@ -10,8 +10,8 @@ I did a demo in regular vanilla HTML, CSS, and JavaScript and then i also did it
 
 # Useful Websites
 
-- [YouTube Video]([http://url.link.goes.here](https://www.youtube.com/watch?v=kmM6mqvnxcs&t=502s&ab_channel=Codehal))
-- [W3Schools]([http://url.link.goes.here](https://www.w3schools.com/howto/howto_css_parallax.asp))
+- [YouTube Video]([http://url.link.goes.here](https://www.youtube.com/watch?v=kmM6mqvnxcs&t=502s&ab_channel=Codehal)
+- [W3Schools]([http://url.link.goes.here](https://www.w3schools.com/howto/howto_css_parallax.asp)
 
 # Future Work
 
