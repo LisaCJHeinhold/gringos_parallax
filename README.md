@@ -2,7 +2,7 @@
 
 For this little side project, I wanted to mess around with parallax scrolling, but as an art form. I had seen several videos of super cool web pages that use parallax scroll so I wanted to try it out. I learn that this specific type of parallax scroll, while it looks very pretty is less practical because it is not very size responsive.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=yi_58XVaORU&ab_channel=lisaCourtright)
 
 # Development Environment
 
